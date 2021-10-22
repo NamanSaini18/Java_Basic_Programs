@@ -1,0 +1,4 @@
+// THIS IS THE SOLUTION OF HACKERRANK PROBLEM NAMED JAVA ITERATOR.
+// IT IS A EASY QUESTION AND SUCCESS RATE IS ALSO HIGH IN THIS PROBLEM.
+Object element = it.next();
+         if(element instanceof String)
